@@ -8,7 +8,6 @@
 I'm an AI/ML developer who likes taking ideas all the way from a Jupyter notebook to something a stranger on the internet can actually use. Most of my recent work sits at the intersection of **LLMs, Retrieval-Augmented Generation, and applied Deep Learning** — but I also enjoy classic ML, computer vision, and full-stack web development when a project calls for it.
 
 - 🔭 Currently working on **agentic LLM tooling** and **RAG systems**
-- 🧪 I care about the boring engineering bits — caching, chunking, routing, packaging, deployment
 - 📦 Recently shipped **[pr-sentinel](https://github.com/kishor2004reddy/Pull-Request-Sentinel-CLI)** to PyPI
 - 🌱 Always exploring: multi-agent orchestration, evaluation, and production-grade MLOps
 - 📫 Reach me at: **[kishor04reddy@gmail.com]** · **[LinkedIn](https://www.linkedin.com/in/kishor-kumar-reddy-70b809283/)**
